@@ -2,10 +2,22 @@
 p {
     text-indent: 20px; /* Adjust the value to control the indentation size */
     padding: 0px 25px 0px 25px;
+/*    color: #938E74; */
+    color: #3F3F37;
   }
 h1 {
     text-align: center;
+    /* color: #D6D6B1; */
+    color: #3F3F37;
+}
+h4 {
+    /* color: #D6D6B1; */
+    color: #3F3F37;
 }
 .metadata {
     padding-left: 15px;
+}
+body {
+    background-color: #938E74;
+
 }
